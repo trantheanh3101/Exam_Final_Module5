@@ -1,0 +1,108 @@
+{
+  "books": [
+    {
+      "id": "BO-0001",
+      "name": "Tôi Thấy Hoa Vàng Trên Cỏ Xanh",
+      "genreId": "301",
+      "release_date": "2024-06-11",
+      "quantity": 30
+    },
+    {
+      "id": "BO-0002",
+      "name": "Cho Tôi Xin Một Vé Đi Tuổi Thơ",
+      "genreId": "301",
+      "release_date": "2024-07-15",
+      "quantity": 18
+    },
+    {
+      "id": "BO-0003",
+      "name": "Cánh Đồng Bất Tận",
+      "genreId": "302",
+      "release_date": "2024-08-01",
+      "quantity": 25
+    },
+    {
+      "id": "BO-0004",
+      "name": "Rừng Na Uy",
+      "genreId": "303",
+      "release_date": "2024-09-05",
+      "quantity": 10
+    },
+    {
+      "id": "BO-0005",
+      "name": "Mắt Biếc",
+      "genreId": "301",
+      "release_date": "2024-10-12",
+      "quantity": 15
+    },
+    {
+      "id": "BO-0006",
+      "name": "Nỗi Buồn Mùa Đông",
+      "genreId": "304",
+      "release_date": "2024-05-20",
+      "quantity": 22
+    },
+    {
+      "id": "BO-0007",
+      "name": "Hà Nội Mùa Thu",
+      "genreId": "305",
+      "release_date": "2024-11-01",
+      "quantity": 30
+    },
+    {
+      "id": "BO-0008",
+      "name": "Biển Đảo Xanh",
+      "genreId": "302",
+      "release_date": "2024-07-25",
+      "quantity": 8
+    },
+    {
+      "id": "BO-0009",
+      "name": "Những Ngày Xưa Thân Ái",
+      "genreId": "303",
+      "release_date": "2024-12-15",
+      "quantity": 12
+    },
+    {
+      "id": "BO-0010",
+      "name": "Chân Trời Tím",
+      "genreId": "304",
+      "release_date": "2024-09-30",
+      "quantity": 17
+    },
+    {
+      "name": "Trần Thế Anh",
+      "genreId": "303",
+      "release_date": "2024-08-01",
+      "quantity": 5,
+      "id": "BO-6485"
+    }
+  ],
+  "genres": [
+    {
+      "id": "301",
+      "category": "Tiểu thuyết văn học Việt Nam",
+      "description": "Sách tiểu thuyết nổi bật trong nền văn học Việt Nam."
+    },
+    {
+      "id": "302",
+      "category": "Tiểu thuyết hiện thực",
+      "description": "Sách tiểu thuyết phản ánh hiện thực cuộc sống."
+    },
+    {
+      "id": "303",
+      "category": "Tiểu thuyết lịch sử",
+      "description": "Sách tiểu thuyết dựa trên các sự kiện lịch sử."
+    },
+    {
+      "id": "304",
+      "category": "Tiểu thuyết kỳ ảo",
+      "description": "Sách tiểu thuyết mang yếu tố tưởng tượng và kỳ ảo."
+    },
+    {
+      "id": "305",
+      "category": "Tiểu thuyết tình cảm",
+      "description": "Sách tiểu thuyết tập trung vào các mối quan hệ tình cảm."
+    }
+  ]
+}
